@@ -1,0 +1,21 @@
+[
+  {
+    "mode": "File",
+    "pattern": "index.html",
+    "kind": "IpaIndex",
+    "data": {
+      "title": "iOS Installation",
+      "show_local_files": true
+    }
+  },
+  {
+    "mode": "Glob",
+    "pattern": "*.plist",
+    "kind": "IpaPlist",
+    "data": {
+      "domain": "example.com",
+      "bundle_id": "test.example.com",
+      "title": "Test"
+    }
+  }
+]
