@@ -10,7 +10,7 @@
   },
   {
     "mode": "Glob",
-    "pattern": "*.plist",
+    "pattern": "*/*.plist",
     "kind": "IpaPlist",
     "data": {
       "domain": "example.com",
