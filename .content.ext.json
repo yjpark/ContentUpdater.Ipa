@@ -5,7 +5,12 @@
     "kind": "IpaIndex",
     "data": {
       "title": "iOS Installation",
-      "show_local_files": true
+      "show_local_files": true,
+      "plist": {
+        "domain": "example.com",
+        "bundle_id": "test.example.com",
+        "title": "Test"
+      }
     }
   },
   {
